@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@har2008preet & @sidshrivastav] - feel free to contact us!
+Created by [[@har2008preet](https://github.com/har2008preet) & [@sidshrivastav](https://github.com/sidshrivastav)] - feel free to contact us!
 
 
 <!-- Optional -->
